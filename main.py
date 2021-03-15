@@ -1,1 +1,1 @@
-ddssdds
+pierwszy priogramana
