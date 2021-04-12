@@ -23,4 +23,5 @@
  |Dla ilu osob nieprzydatna|span[id^="votes-no"]|useless|int|
 
 
-## Etap 2 Ekstracja wszytskich opinni o produkcie z pojedynczej strony
+## Etap 2 Ekstracja wszytskich opinni o produkcie z pojedynczej strony.
+
