@@ -474,7 +474,7 @@
     {
         "opinionId": "3322381",
         "author": "Użytkownik Ceneo",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "Mam problemy z kręgosłupem, więc kupiłem fotel pomimo wysokiej ceny.Poza tym nie znalazłem oferty na coś lepszego w podobnej grupie cenowej. Nie chcę się wypowiadać o trwałości fotela bo siedzę w nim dopiero kilka tygodni, ale jest długa gwarancja wiec nie powinno być problemów. Natomiast ergonomia jest super i możliwości jej regulacji wszechstronne. Można wygodnie i pracować na komputerze, ale również oglądać telewizję w pozycji odchylonej. I w każdym przypadku fotel podpiera nasze plecy, głowę i łokcie w sposób zapobiegający bólom i zmęczeniu. Jestem zadowolony więc nie żałuję sporego wydatku.",
         "pros": [
@@ -551,7 +551,7 @@
     {
         "opinionId": "1821988",
         "author": "Użytkownik Ceneo",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.0,
         "content": "Są plusy i minusy tego krzesła.Jeśli ktoś ma 190 cm ten fotel kompletnie się nie nadaje. Odpierała nie da się dość wysoko podnieść co powoduje dalsze problemy z podporą na niższe partie pleców. Mimo, iż byłem pytany o wzrost i proponowano mi to krzesło, nie wiem czy ktoś o wzroście 190cm go testował.Podłokietniki maja luzy i czasami bez powodów się same przesuwają.Ich wykonanie nie pozwala na stała konfiguracje. Siedzisko ściska nogi. Po dłuższym posiedzeniu trzeba jednak wstać i się poruszać (choć to może być zaleta :-) )Ten fotel byłby idealny jak bym miał 175cm wzrostu, ale nie mam :-)",
         "pros": [],
@@ -885,6 +885,20 @@
         "useless": 0
     },
     {
+        "opinionId": "14310009",
+        "author": "g...a",
+        "rcmd": true,
+        "stars": 5.0,
+        "content": "Super produkt troszkę drogi  ale czego sie nie robi dla wy..",
+        "pros": [],
+        "cons": [],
+        "purchased": true,
+        "publishDate": "2021-04-17 11:53:41",
+        "purchaseDate": "2021-03-16 20:00:18",
+        "useful": 0,
+        "useless": 0
+    },
+    {
         "opinionId": "10694783",
         "author": "Hubert",
         "rcmd": true,
@@ -1138,7 +1152,7 @@
     {
         "opinionId": "10453971",
         "author": "----889",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "---",
         "pros": [],
@@ -1185,27 +1199,6 @@
         "useless": 1
     },
     {
-        "opinionId": "3567331",
-        "author": "Użytkownik Ceneo",
-        "rcmd": true,
-        "stars": 4.5,
-        "content": "Fotel mam od miesiąca i dobrze spełnia swoją funkcję - jest wygodny, ma wiele możliwości regulacji i dobrze wygląda. Jedyny minus to podłokietniki, które \"pływają\" - regulacja kąta ma blokadę, ale ruch w poziomie już nie. Każde oparcie się o podłokietnik skutkuje jego przesunięciem, a nawet jeżeli ustawię sobie idealną pozycję to po chwili ulega ona zmianie. Oparcie jest rewelacyjne szczególnie ze względu na podparcie lędźwi.",
-        "pros": [
-            "jakość",
-            "wygląd",
-            "wygoda"
-        ],
-        "cons": [
-            "cena",
-            "podłokietniki nie mają blokady"
-        ],
-        "purchased": false,
-        "publishDate": "2016-02-04 17:30:35",
-        "purchaseDate": null,
-        "useful": 0,
-        "useless": 1
-    },
-    {
         "opinionId": "3028418",
         "author": "Użytkownik Ceneo",
         "rcmd": false,
@@ -1226,6 +1219,27 @@
         "purchaseDate": null,
         "useful": 35,
         "useless": 7
+    },
+    {
+        "opinionId": "3567331",
+        "author": "Użytkownik Ceneo",
+        "rcmd": true,
+        "stars": 4.5,
+        "content": "Fotel mam od miesiąca i dobrze spełnia swoją funkcję - jest wygodny, ma wiele możliwości regulacji i dobrze wygląda. Jedyny minus to podłokietniki, które \"pływają\" - regulacja kąta ma blokadę, ale ruch w poziomie już nie. Każde oparcie się o podłokietnik skutkuje jego przesunięciem, a nawet jeżeli ustawię sobie idealną pozycję to po chwili ulega ona zmianie. Oparcie jest rewelacyjne szczególnie ze względu na podparcie lędźwi.",
+        "pros": [
+            "jakość",
+            "wygląd",
+            "wygoda"
+        ],
+        "cons": [
+            "cena",
+            "podłokietniki nie mają blokady"
+        ],
+        "purchased": false,
+        "publishDate": "2016-02-04 17:30:35",
+        "purchaseDate": null,
+        "useful": 0,
+        "useless": 1
     },
     {
         "opinionId": "3989879",
@@ -1465,7 +1479,7 @@
     {
         "opinionId": "3324275",
         "author": "Użytkownik Ceneo",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "Fotel bardzo fajny z tym że wyprofilowane welurowe siedzisko jest mało wygodne bo uciska uda pomimo że nie jestem gruby. Natomiast reszte szczerze polecam, nie kupiłbym innego fotela, ewentualnie wypróbował bym siedzisko z siatką ale nie jest to na tyle uciążliwe żebym chciał oddać fotel.",
         "pros": [
@@ -1661,7 +1675,7 @@
     {
         "opinionId": "3433172",
         "author": "Użytkownik Ceneo",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "Bardzo wygodny, a dzięki ruchomym wszystkim elementom idealnie dopasowujący się do każdej sylwetki  Pracuje na nim kilka godzin dziennie i się w ogóle nie męczę. Fotel na pewno warty jest swej ceny.  Ps. Super obsługa w firmie Grospol",
         "pros": [],
@@ -1741,6 +1755,20 @@
         "useless": 1
     },
     {
+        "opinionId": "4448067",
+        "author": "Użytkownik Ceneo",
+        "rcmd": false,
+        "stars": 2.5,
+        "content": "Mam wersję skórzaną tego fotela. Latem jest cały czas mokry od potu. Podłokietniki są słabe ( jakaś twarda gąbka, czy coś ),nie można ich ustawić trwale w jednej pozycji. Po około 2 latach  użytkowania zaczął przepuszczać siłownik ( gdy siedzę zaczynam powoli się opuszczać).Szczerze mówiąc: nie polecam.... , Nie za te pieniądze.",
+        "pros": [],
+        "cons": [],
+        "purchased": false,
+        "publishDate": "2017-02-22 09:28:48",
+        "purchaseDate": null,
+        "useful": 1,
+        "useless": 1
+    },
+    {
         "opinionId": "3070088",
         "author": "Użytkownik Ceneo",
         "rcmd": true,
@@ -1757,20 +1785,6 @@
         "publishDate": "2015-03-31 12:39:58",
         "purchaseDate": null,
         "useful": 0,
-        "useless": 1
-    },
-    {
-        "opinionId": "4448067",
-        "author": "Użytkownik Ceneo",
-        "rcmd": false,
-        "stars": 2.5,
-        "content": "Mam wersję skórzaną tego fotela. Latem jest cały czas mokry od potu. Podłokietniki są słabe ( jakaś twarda gąbka, czy coś ),nie można ich ustawić trwale w jednej pozycji. Po około 2 latach  użytkowania zaczął przepuszczać siłownik ( gdy siedzę zaczynam powoli się opuszczać).Szczerze mówiąc: nie polecam.... , Nie za te pieniądze.",
-        "pros": [],
-        "cons": [],
-        "purchased": false,
-        "publishDate": "2017-02-22 09:28:48",
-        "purchaseDate": null,
-        "useful": 1,
         "useless": 1
     },
     {
@@ -1894,7 +1908,7 @@
     {
         "opinionId": "3569638",
         "author": "Użytkownik Ceneo",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "Fotel wygodny, dobrze stabilizujący sylwetkę, niestety ciężki. Siatka na oparciu się kosmaci. Mimo wszystko, ze względu na wygodę siedzenia i ogólny wyglad godny polecenia.",
         "pros": [],
@@ -1939,7 +1953,7 @@
     {
         "opinionId": "3388278",
         "author": "Paweł",
-        "rcmd": null,
+        "rcmd": false,
         "stars": 3.5,
         "content": "Fotel bardzo wygodny i solidny. Dobra relacja cena-jakość. Polecam!",
         "pros": [
