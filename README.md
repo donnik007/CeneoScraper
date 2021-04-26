@@ -28,7 +28,6 @@
 - utworzenie listy, do której będą dodawane słowniki reprezentujące pojedyncze opinie
 - dodanie pętli, w której pobierane były składowe kolejnych opinii z pojedynczej strony
 
-
 ## Etap 3 - Ekstracja wszytskich opinii o produkcie z wszystkich stron
 - dodanie pętli, w której:
     * pobierana jest strona z opiniami
