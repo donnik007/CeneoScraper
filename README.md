@@ -35,7 +35,23 @@
     * sprawdzane jest, czy istnieje kolejna strona z opiniami, które powinny zostać pobrane
 - zapisanie wszytskich opinni o produkcie do pliku .json
 
-# Etap 4 - Refaktoryzacja kodu
+## Etap 4 - Refaktoryzacja kodu
 - parametryzacja indentyfatora opinii
-- 
+- zdefiniowanie funkcji do ekstracji pojedynczych składowych opinii
+- dodanie słownika opisującego strukturę opinii wraz z selektorami potrzebnymi do ekstracji pojedynczych składowych
+- użycie wyrażenia skłownikowego (dictionary commprehension) do pobrania (i zapisania) składowych pojedynczej opinii
+- rezygnacja z transformacji składowych opinii (przeniesienie tego procesu do analizy)
+
+## Etap 5 - Analiza statystyczna zbioru opinii o produkcie
+- wyświetlenie listy kodów produktów, dla których zostały pobrane opinie
+- wczytanie opinii o wskazanym produkcie do obiektu Dataframe
+- obliczanie podstawowych statytsyk 
+    * liczba opinii o produkcie
+    * liczba opinni w których podana została lista zalet
+    * liczba opinni w których podana została lista wad
+    * średnia ocena produktu wyznaczona na podstawie liczby gwiazdek
+
+## Etap 6 - Narysowanie wykresów opartych o dane ze zbioru opinii o produkcie
+- wykres kołowy obrazujący udział poszczególnych wartości rekomendacji w ogólnej liczbie opinii
+- wykres kolumnowy/słupkowy obrazujący częstośc wsytępowania opinii z poszczególnymi ocenami wyrażony liczbą gwiazdek
 
