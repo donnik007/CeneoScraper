@@ -10,9 +10,7 @@ productId = input("Podaj kod produktu: ")
 
 opinions = pd.read_json(f"./opinions/{productId}.json")
 
-
 opinions.stars = opinions.stars.apply(lambda x: float(x.split("/")[0].replace(",",".")))
-
 
 opinionsCount = len(opinions)
 prosCount = opinions.pros.astype(bool).sum()
@@ -21,7 +19,6 @@ averageScore = opinions.stars.mean()
 
 #opinions.rcmd = opinions.rcmd.apply(lambda x: True if x == "Polecam" else False if x == "Nie polecam" else x)
 opinions.rcmd = opinions.rcmd.apply(lambda x: "Nie mam zdania" if x is None else x)
-
 
 print(f'''O produkcie dostępnych jest {opinionsCount} opinii
 W {prosCount} opiniach podana została lista zalet produktu, a w {consCount} lista wad.
